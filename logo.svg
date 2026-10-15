@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 425.2 425.2">
+  <defs>
+    <style>
+      .st0, .st1 {
+        fill: #231f20;
+      }
+
+      .st0, .st2 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .st1 {
+        font-family: Onyx, Impact, 'Arial Narrow', sans-serif;
+        font-size: 35.83px;
+      }
+
+      .st2 {
+        fill: #fff200;
+      }
+    </style>
+  </defs>
+  <polygon class="st2" points="196.59 114.13 196.59 212.6 167.61 212.6 196.59 114.13"/>
+  <polygon class="st2" points="222.16 212.6 196.59 301.08 196.59 212.6 222.16 212.6"/>
+  <polygon class="st0" points="290.06 212.6 196.59 212.6 196.59 185.16 290.06 212.6"/>
+  <polygon class="st0" points="196.59 212.6 196.59 236.86 103.12 212.6 196.59 212.6"/>
+  <text class="st1" transform="translate(224.43 238.79) scale(.91 1)"><tspan x="0" y="0">Rosal AI</tspan></text>
+  <text class="st1" transform="translate(167.55 185.96) rotate(-180) scale(.91 1)"><tspan x="0" y="0">Rosal AI</tspan></text>
+</svg>
